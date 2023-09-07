@@ -1,0 +1,148 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+a {
+	text-decoration: none;
+	color: rgb(0, 0, 0);
+	padding: 20px;
+	background: #c8c8c8;
+	border-radius: 20px;
+	transition: 300ms;
+}
+
+a:hover {
+	color: rgb(245, 245, 245);
+	background: #7b7b7b;
+}
+
+/* ========================================================================= */
+.App {
+	text-align: center;
+}
+
+.header-app {
+	background: #1c0000;
+}
+
+.header-nav {
+	max-width: 700px;
+	margin: 0 auto;
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	min-height: 70px;
+}
+
+/* ================================================================================== */
+.wrapper {
+	max-width: 700px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+
+.post {
+	background: #838383;
+	margin: 20px 0;
+	padding: 20px;
+	border-radius: 20px;
+}
+
+/* =============================================================================== */
+.post__header {
+	display: flex;
+	align-items: center;
+	background: #1a1717;
+	padding: 10px;
+	border-radius: 10px;
+	color: #fff;
+}
+
+.header__img {
+	flex: 0 1 auto;
+	border-radius: 50%;
+	overflow: hidden;
+	width: 70px;
+	height: 70px;
+}
+
+.header__img img {
+	object-fit: cover;
+	width: 100%;
+	height: 100%;
+}
+
+.post__user {
+	flex: 0 1 20%;
+}
+
+.post__nickname {
+	font-size: 14px;
+	color: #838383;
+}
+
+.post__date {
+	flex: 0 1 70%;
+	text-align: end;
+}
+
+/* =============================================================================== */
+.post__body {}
+
+.post__text {
+	margin: 10px 0;
+}
+
+.post__text p {
+	font-size: 20px;
+	color: #fff;
+}
+
+.post__img img {
+	width: 100%;
+	height: 100%;
+	object-fit: cover;
+}
+
+.post__button {
+	display: flex;
+	justify-content: space-around;
+}
+
+.post__like {}
+
+.post__comment {}
+
+.post__share {}
+
+.soc {
+	display: flex;
+	align-items: center;
+	gap: 10px;
+}
+
+.soc img {
+	width: 30px;
+	height: 30px;
+	object-fit: cover;
+}
+
+.new-post__wrapper {
+	max-width: 800px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+/* ====================================================================== */
+
+.new-post__input {
+	margin: 10px;
+	display: flex;
+	flex-direction: column;
+}
+
+.new-post__input input {
+	padding: 10px;
+}
