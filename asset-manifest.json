@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/homework21/static/css/main.ca852315.css",
+    "main.js": "/homework21/static/js/main.8e78be91.js",
+    "static/js/787.8cb076a6.chunk.js": "/homework21/static/js/787.8cb076a6.chunk.js",
+    "static/media/GeraltInfo.jpg": "/homework21/static/media/GeraltInfo.4aa7dd01b0c7f1be5237.jpg",
+    "static/media/gold-dragon-cover.jpg": "/homework21/static/media/gold-dragon-cover.e7d2c5713039a5bfebd9.jpg",
+    "static/media/Yenefer.jpg": "/homework21/static/media/Yenefer.21057989ab6806978d3e.jpg",
+    "static/media/Gerald.jpg": "/homework21/static/media/Gerald.e971422fde3a76b25794.jpg",
+    "index.html": "/homework21/index.html",
+    "main.ca852315.css.map": "/homework21/static/css/main.ca852315.css.map",
+    "main.8e78be91.js.map": "/homework21/static/js/main.8e78be91.js.map",
+    "787.8cb076a6.chunk.js.map": "/homework21/static/js/787.8cb076a6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca852315.css",
+    "static/js/main.8e78be91.js"
+  ]
+}
